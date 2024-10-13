@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  cursor: url("/assets/images/logo/gun2.png"), auto !important;
+}
